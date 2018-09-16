@@ -1,1 +1,1 @@
-# steiner-tree-kmb
+# Steiner tree
